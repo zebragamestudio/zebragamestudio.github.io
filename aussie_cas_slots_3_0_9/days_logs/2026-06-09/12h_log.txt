@@ -1,0 +1,15 @@
+=== Новый POST запрос: 2026-06-09 12:40:25 ===
+User-Agent: okhttp/4.12.0
+User-Agent-2: okhttp/4.12.0
+User-Agent-from_json: Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36
+User-IP: 93.236.242.96
+Страна: DE - Germany
+User YA id: 13854687671448001596
+GET параметры: 
+JSON from app: {"scotophilic":"en-US","gyrovague":"en-US","lithomancy":"Europe/Berlin","meretricious":"13854687671448001596","cachinnate":"2","ommatidium":"1280","psithurism":"KoalaBoomerang=Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36","hypaethral":"1780998024480","pareidolia":"b15de50b-0d1c-43cd-a0fb-f56fbe458f6f","sgdld":"vhmsdq","fdmqd":"rkns","rdsshmf":"kzjd","rdzrnm":"eqnrs","zbshuhsx":"ehrghmf","rxlank":"ehrg","anmtr":"rmnvekzjd","vhkc":"gnnj","rbzssdq":"bqxrszk","azbjfqntmc":"hbd","zugzwang":"9258f753c9543f67f342a37cdb26ccf7bb623e6df37cf824b065ab56fa334299"}
+JSON to app: {"accismus":"pyrrhonism","noctilucent":"eurythmic","corymbose":"claustral"}
+Answer from Keitaro: App Install success'ib
+URL Keitaro API: https://apptracks.ru/click_api/v3?token=8ZrSJ93KYVy29wt5&sub_id_1=vlk_309_Aussie&sub_id_2=Germany&sub_id_3=DE&sub_id_4=okhttp/4.12.0&sub_id_5=Deutsche%20Telekom%20AG&sub_id_6=true&sub_id_7=true&sub_id_8=13854687671448001596&sub_id_10=2&sub_id_11=en-US&sub_id_12=en-US&sub_id_13=Europe/Berlin&sub_id_14=Europe/Berlin&sub_id_20=1280&ip=93.236.242.96&user_agent=Mozilla/5.0%20(Linux;%20Android%2016;%20sdk_gphone64_arm64%20Build/BP22.250221.010;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/128.0.6613.88%20Mobile%20Safari/537.36&language=DE&x_requested_with=okhttp/4.12.&contentType=json
+URL to app: iuuqt://bqqusbdlt.sv/wml_309?fyufsobm_je=13854687671448001596&tvc_je_14=6309553&tvc_je_15=f472944g-c494-4d6b-c8f0-0188d5303381&tvc_je_3=EF
+===============================
+

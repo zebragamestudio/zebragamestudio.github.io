@@ -1,0 +1,15 @@
+=== Новый POST запрос: 2026-06-08 12:52:37 ===
+User-Agent: okhttp/4.12.0
+User-Agent-2: okhttp/4.12.0
+User-Agent-from_json: Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36
+User-IP: 93.236.242.96
+Страна: DE - Germany
+User YA id: 8089481398991490768
+GET параметры: 
+JSON from app: {"mazarine":"en-US","yclepted":"en-US","psammite":"Europe/Berlin","ctenophore":"8089481398991490768","opsimath":"2","flavescent":"1280","tarantism":"AussieTreasure=Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36","exuviae":"1780912356445","hierodule":"91788cac-1610-4361-81db-ce33dd49c0b8","vnqkc_rsxkd":"ztrsqzkhzm_ntsazbj","uhrtzk_lnnc":"rtmrds_fnkc","lzhm_okzbd":"rxcmdx_gzqantq","mzstqd_ynmd":"fqdzs_azqqhdq_qdde","zmhlzk_hbnm":"jzmfzqnn","ktbjx_hbnm":"annldqzmf","rodbhzk_hbnm":"nozk_rsnmd","qzqd_hbnm":"rntsgdqm_bqnrr","dwsqz_hbnm":"dtbzkxostr_kdze","rbdmd_bnknq":"cdrdqs_nqzmfd","vzsdq_bnknq":"qdde_aktd","rjx_deedbs":"vzql_fknv","rntmc_sgdld":"chcfdqhcnn_rnes","ldmt_rsxkd":"oqdlhtl_kntmfd","qdvzqc_rsxkd":"czhkx_bnkkdbs","kdudk_sgdld":"ztrrhd_zcudmstqd","anodyne":"ba48ac90de4373f62c9caafbb388d696d5513b8150a33a2701187cdb24d8dc6a"}
+JSON to app: {"velutinous":"ochlocracy","cispontine":"ranunculus","bathykolpian":"doleritic"}
+Answer from Keitaro: App Install success'd
+URL Keitaro API: https://apptracks.ru/click_api/v3?token=8ZrSJ93KYVy29wt5&sub_id_1=vlk_308_Australia&sub_id_2=Germany&sub_id_3=DE&sub_id_4=okhttp/4.12.0&sub_id_5=Deutsche%20Telekom%20AG&sub_id_6=false&sub_id_7=true&sub_id_8=8089481398991490768&sub_id_10=2&sub_id_11=en-US&sub_id_12=en-US&sub_id_13=Europe/Berlin&sub_id_14=Europe/Berlin&sub_id_20=1280&ip=93.236.242.96&user_agent=Mozilla/5.0%20(Linux;%20Android%2016;%20sdk_gphone64_arm64%20Build/BP22.250221.010;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/128.0.6613.88%20Mobile%20Safari/537.36&language=DE&x_requested_with=okhttp/4.12.&contentType=json
+URL to app: iuuqt://bqqusbdlt.sv/wml_308?fyufsobm_je=8089481398991490768&tvc_je_14=6308167&tvc_je_15=493b0376-5c87-4g74-8454-92cg34d51f01&tvc_je_3=EF
+===============================
+

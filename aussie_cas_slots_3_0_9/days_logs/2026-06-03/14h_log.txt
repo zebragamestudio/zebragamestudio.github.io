@@ -1,0 +1,30 @@
+=== Новый POST запрос: 2026-06-03 14:43:28 ===
+User-Agent: okhttp/4.12.0
+User-Agent-2: okhttp/4.12.0
+User-Agent-from_json: Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36
+User-IP: 31.183.169.33
+Страна: PL - Poland
+User YA id: 8343696595575064095
+GET параметры: 
+JSON from app: {"numinous":"en-US","peregrine":"en-US","labyrinthine":"Europe/Warsaw","susurration":"8343696595575064095","mellifluous":"2","quixotry":"1280","palimpsest":"CaesarsStared=Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36","obdurate":"1780487004452","threnody":"d91ec277-38fd-4eb3-9aca-a1ecf0597db9","zooHcdmshsx":"rszqdcbzrhmn","fzldEnqlzs":"qddkrohm","uhrtzkLnnc":"mdnmktw","lzhmNaidbs":"rszqbnhm","oqdlhtlHbnm":"fnkcazq","rodbhzkLzqj":"ktbjxrdudm","izbjonsSxod":"ldfzoqhyd","rohmEdzstqd":"eqddrohm","qddkDkdldms":"qnxzkzbd","oqhydZrrds":"sqdzrtqdanw","rbqddmRsxkd":"czqjudkuds","khfgsDeedbs":"fnkcekzqd","bnhmRxrsdl":"bghorszbj","vhmZmhlzshnm":"bnhmatqrs","ldmtNaidbs":"uztkscnnq","aqzmcLzqjdq":"rszqazcfd","cynosure":"67fe36b0d244f9948ce28da57b208f360a0ab188d7b9748d6c6674219e96eedd"}
+JSON to app: {"ineluctable":"lucubration","obstreperous":"uxorious","crepuscular":"solipsistic"}
+Answer from Keitaro: App Install success'd
+URL Keitaro API: https://apptracks.ru/click_api/v3?token=8ZrSJ93KYVy29wt5&sub_id_1=vlk_307_Stared&sub_id_2=Poland&sub_id_3=PL&sub_id_4=okhttp/4.12.0&sub_id_5=Toya%20SP.Z.O.O&sub_id_6=true&sub_id_7=true&sub_id_8=8343696595575064095&sub_id_10=2&sub_id_11=en-US&sub_id_12=en-US&sub_id_13=Europe/Warsaw&sub_id_14=Europe/Warsaw&sub_id_20=1280&ip=31.183.169.33&user_agent=Mozilla/5.0%20(Linux;%20Android%2016;%20sdk_gphone64_arm64%20Build/BP22.250221.010;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/128.0.6613.88%20Mobile%20Safari/537.36&language=PL&x_requested_with=okhttp/4.12.&contentType=json
+URL to app: iuuqt://bqqusbdlt.sv/wml_307?fyufsobm_je=8343696595575064095&tvc_je_14=6302404&tvc_je_15=df527f18-88fe-4f9f-c90g-094512374cd8&tvc_je_3=QM
+===============================
+
+=== Новый POST запрос: 2026-06-03 14:43:49 ===
+User-Agent: okhttp/4.12.0
+User-Agent-2: okhttp/4.12.0
+User-Agent-from_json: Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36
+User-IP: 31.183.169.33
+Страна: PL - Poland
+User YA id: 15450146531808643920
+GET параметры: 
+JSON from app: {"numinous":"en-US","peregrine":"en-US","labyrinthine":"Europe/Warsaw","susurration":"15450146531808643920","mellifluous":"2","quixotry":"1280","palimpsest":"CaesarsStared=Mozilla/5.0 (Linux; Android 16; sdk_gphone64_arm64 Build/BP22.250221.010; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.88 Mobile Safari/537.36","obdurate":"1780487025979","threnody":"29a5a5ec-a4df-4b60-8288-bdf8407a9c50","zooHcdmshsx":"rszqdcbzrhmn","fzldEnqlzs":"qddkrohm","uhrtzkLnnc":"mdnmktw","lzhmNaidbs":"rszqbnhm","oqdlhtlHbnm":"fnkcazq","rodbhzkLzqj":"ktbjxrdudm","izbjonsSxod":"ldfzoqhyd","rohmEdzstqd":"eqddrohm","qddkDkdldms":"qnxzkzbd","oqhydZrrds":"sqdzrtqdanw","rbqddmRsxkd":"czqjudkuds","khfgsDeedbs":"fnkcekzqd","bnhmRxrsdl":"bghorszbj","vhmZmhlzshnm":"bnhmatqrs","ldmtNaidbs":"uztkscnnq","aqzmcLzqjdq":"rszqazcfd","cynosure":"28614a46af36b1981ceb4221e48362a0300e2a161f937f15939e5c5a141fee34"}
+JSON to app: {"ineluctable":"lucubration","obstreperous":"uxorious","crepuscular":"solipsistic"}
+Answer from Keitaro: App Install success'd
+URL Keitaro API: https://apptracks.ru/click_api/v3?token=8ZrSJ93KYVy29wt5&sub_id_1=vlk_307_Stared&sub_id_2=Poland&sub_id_3=PL&sub_id_4=okhttp/4.12.0&sub_id_5=Toya%20SP.Z.O.O&sub_id_6=true&sub_id_7=true&sub_id_8=15450146531808643920&sub_id_10=2&sub_id_11=en-US&sub_id_12=en-US&sub_id_13=Europe/Warsaw&sub_id_14=Europe/Warsaw&sub_id_20=1280&ip=31.183.169.33&user_agent=Mozilla/5.0%20(Linux;%20Android%2016;%20sdk_gphone64_arm64%20Build/BP22.250221.010;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/128.0.6613.88%20Mobile%20Safari/537.36&language=PL&x_requested_with=okhttp/4.12.&contentType=json
+URL to app: iuuqt://bqqusbdlt.sv/wml_307?fyufsobm_je=15450146531808643920&tvc_je_14=6302404&tvc_je_15=df527f18-88fe-4f9f-c90g-094512374cd8&tvc_je_3=QM
+===============================
+
